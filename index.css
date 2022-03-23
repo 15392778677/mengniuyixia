@@ -1,0 +1,159 @@
+body{
+    background-image: url(./img图);
+    background-size: cover;
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+}
+header{
+width: 100%;
+height: 260px;
+position: relative;
+top: -86px;
+background-image: url(./img图/猛牛一下抠图.png);
+background-repeat: no-repeat;
+background-position: 400px 30px ;
+margin-bottom: 30px;
+}
+
+
+
+nav{
+width: 100%;
+height: 150px;
+margin-top: 186px;
+}
+#div1{
+float: left;
+width: 50px;
+height: px;
+border:#808080 solid ;
+margin-left: 217px;
+border-radius: 7px;
+background-color: #808080;
+}
+#div2{
+float: left;
+width: 50px;
+height: ;
+border:#808080  solid;
+border-radius:7px; 
+margin-left: 150px;
+background-color: #808080;
+}
+#div3{
+float: left;
+width: 50px;
+height: ;
+border:  #808080 solid;
+border-radius:7px; 
+margin-left: 150px;
+background-color: #808080;
+}
+#div4{
+float: left;
+width: 50px;
+height: ;
+border:  #808080 solid;
+border-radius:7px; 
+margin-left: 150px;
+background-color: #808080;
+}
+#div5{
+float: left;
+width: 50px;
+height: ;
+border:  #808080 solid;
+border-radius:7px; 
+margin-left: 150px;
+background-color: #808080;
+}
+
+#div6{
+    width:100%;
+    height:30px;
+    text-align: center;
+    margin-left: -80px;
+}
+
+ /*
+ body {
+    margin: 0;
+    padding: 0;
+    background: #34495e;
+}
+*/
+.search-box {
+    position: absolute;
+    top: 43%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    background: ;
+    height: 40px;
+    border-radius: 40px;
+    padding: 10px;
+     border: grey solid ;
+     cursor: pointer;
+}
+
+.search-btn {
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.4s;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+a{
+    cursor: pointer;
+}
+
+.search-txt {
+    border:none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    transition: 0.4s;
+    line-height: 40px;
+    width: 0;
+}
+
+.search-box:hover>.search-txt {
+    width: 380px;
+    padding: 0 6px;
+    
+}
+
+.search-box:hover>.search-btn {
+    background:;
+}
+
+.search-part{
+    margin-bottom: 30px;
+    margin-top: 20px;
+   
+}
+
+.logo{
+    font-size: 2em;
+    white-space: normal;
+    word-wrap: break-word;
+    text-decoration: none;
+    color: #232323
+}
+
+img.smaller {
+	width: 192px;
+	height: 108px;
+	max-width: 250px;
+	animation: flipInX 4s;
+	-webkit-animation: flipInX 4s
+}
