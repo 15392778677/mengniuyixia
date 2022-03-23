@@ -64,7 +64,7 @@ function login1(){
                     alert("username和password不能为空！");
                 }
                   else if(username=="Yyh" && password=="Wgh"){
-                 window.open("https://yyh-wgh-15392778677.vercel.app/%E6%B1%AA%E6%81%AD%E6%B6%B5%E7%94%B7%E5%8F%8B/%E6%B1%AA%E6%81%AD%E6%B6%B5%E7%94%B7%E5%8F%8B.jpg");
+                 window.open("https://studengt-model.vercel.app/");
                    return true;
                     }
                     alert("您没有访问权限");
