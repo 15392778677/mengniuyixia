@@ -1,4 +1,5 @@
 # mengniuyixia
+饱受百度标签页面的繁杂页面所以自己写了一个简洁的搜索页面
 这是一个链接百度引擎的搜索器，使用html，css，javascript
 
 
